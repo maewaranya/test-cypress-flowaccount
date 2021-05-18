@@ -1,0 +1,16 @@
+{
+  "name": "xerotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cypress open"
+  },
+  "author": "waranya siriphat",
+  "license": "ISC"
+}
